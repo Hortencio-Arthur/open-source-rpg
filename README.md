@@ -1,4 +1,5 @@
 # Open Source RPG
+HORTENCIO
 
 Tutorial: https://www.twitch.tv/videos/1215083891
 
@@ -10,8 +11,9 @@ O objetivo principal é criar um app simples, porém funcional, que sirva para q
 Quando o projeto estiver minimamente finalizado, um guia será disponibilizado para leigos sobre como fazer o projeto funcionar.
 
 ### Recursos
-- ✔️ Ficha de personagem
-- ✔️ Painel do mestre para manipular o sistema
+- ✔️ Ficha de personagem =)
+- ✔️ Painel do mestre para manipula
+- r o sistema
 - ✔️ Integração com o OBS (software de streaming) através de Browser Sources
 - ✔️ Rolagem de dados (integrada com o OBS)
 - Personalização completa da integração com o OBS
